@@ -1,0 +1,20 @@
+{
+  "customers": [
+    {
+      "name": "Phteven",
+      "age": "5"
+    },
+    {
+      "name": "Luna",
+      "age": "6"
+    },
+    {
+      "name": "Cassi",
+      "age": "7"
+    },
+    {
+      "name": "Saturnus",
+      "age": "4"
+    }
+  ]
+}
